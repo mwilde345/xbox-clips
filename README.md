@@ -15,3 +15,8 @@ do stuff with xbox live clips
 * clip 5 star rating
 * share link (pro, uses my s3 url or maybe the xbox live one?)
 * link to timestamp of current video
+
+### API
+https://docs.microsoft.com/en-us/gaming/xbox-live/api-ref/xbox-live-rest/uri/dvr/uri-usersowneridclipsget
+
+
